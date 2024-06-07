@@ -12,11 +12,11 @@ def web_portfolio():
 
     st.markdown('<style>div.block-container{padding-top:2rem;}</style>',unsafe_allow_html=True)
     # Profile image file
-    with open("source/dp.png", "rb") as img_file:
+    with open("dp.png", "rb") as img_file:
         img = "data:image/png;base64," + b64encode(img_file.read()).decode()
 
     # PDF CV file
-    with open("source/Profile.pdf", "rb") as pdf_file:
+    with open("Profile.pdf", "rb") as pdf_file:
        pdf_bytes = pdf_file.read()
 
     # Top title
