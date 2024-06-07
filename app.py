@@ -84,7 +84,7 @@ def web_portfolio():
     # About me section
     st.subheader("About Me")
     st.markdown("""
-    - 🧑‍💻 I am a **Senior Data Science and General AI Engineer** at [IBM](https://www.ibm.com/), where I am currently working on a healthcare project for [Elevance Healthcare](https://www.elevancehealth.com/).
+    - 🧑‍💻 I am a **Senior Data Scientist and General AI Engineer** at [IBM](https://www.ibm.com/), where I am currently working on a healthcare project for [Elevance Healthcare](https://www.elevancehealth.com/).
     - 🚀 Previously, I served as an Application Development Manager at [MMC](https://www.mmc.com/).
     - ❤️ I am passionate about *Machine Learning/Deep Learning, MLOps, Data Science, Software Engineering, Computer Vision, Data Analytics, Data Engineering, Automation*, and more!
     - 🤖 Additionally, I am a Senior Instructor at [upGrad](https://www.upgrad.com/), where I offer bootcamp sessions on topics such as Data Science, Machine Learning, Natural Language Processing, Automation, and more.
